@@ -4,7 +4,7 @@
 
 [Link to Course](https://www.udemy.com/react-2nd-edition/)
 
-[Link to App Demo](https://khanh-expensify-app.herokuapp.com/)
+[Link to App Demo on Heroku](https://khanh-expensify-app.herokuapp.com/) || [Link to App Demo on my domain](https://expensify.khanhcodes.com/)
 
 # Topics and Technologies
 
